@@ -1,4 +1,4 @@
-# Convolutional Deep Neural Network for Digit Classification
+# EX 3 Convolutional Deep Neural Network for Digit Classification
 
 ## AIM
 To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
